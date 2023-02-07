@@ -4,15 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello Laravel</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>Hello Laravel!</h1>
-    <ul>
-        <li>
-            <a href="/page1">page1</a>
-        </li>
-    </ul>
-    
+    <h1>
+        page 2
+    </h1>
 </body>
 </html>
