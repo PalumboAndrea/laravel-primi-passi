@@ -10,5 +10,6 @@
     <h1>
         page 2
     </h1>
+    <button onclick="location.href='/home'">Back Home</button>
 </body>
 </html>

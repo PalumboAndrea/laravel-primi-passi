@@ -10,7 +10,10 @@
     <h1>Hello Laravel!</h1>
     <ul>
         <li>
-            <a href="/page1">page1</a>
+            <a href="{{ route('page1') }}">Page1 </a>
+        </li>
+        <li>
+            <a href="{{ route('page2') }}">Page2 </a>
         </li>
     </ul>
     
